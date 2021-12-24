@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superbunny38
+![image](https://user-images.githubusercontent.com/48243487/147347014-d25771eb-95ed-4cd0-81d0-bbaeb1d7c949.png)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... DeepLearning, Machine Learning
 - 💞️ I’m looking to collaborate on ...
@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![image](https://user-images.githubusercontent.com/48243487/147346991-61c93d0a-b28e-4b16-bae2-a3281dc8c223.png)
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbunny38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
