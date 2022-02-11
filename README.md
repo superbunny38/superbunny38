@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
-<p align="center">**Tech Stack**</p>
+**Tech Stack**
 
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
