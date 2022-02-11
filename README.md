@@ -11,8 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<br>
+<p align="center">**Tech Stack**</p>
 
-<b>Tech Stack</b>
+<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
