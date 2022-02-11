@@ -29,5 +29,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the" />
-<br><br>
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbunny38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
