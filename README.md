@@ -13,10 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 
 <br><br>
