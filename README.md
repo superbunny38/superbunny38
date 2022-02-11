@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<center>Tech stack</ceneter>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbunny38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
