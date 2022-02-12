@@ -7,10 +7,10 @@
 해상도를 높여간다고 생각하며 공부!
 
 <h3 align="center">
-:blue_heart: ***Linear Algebra***
-:blue_heart: ***Calculus***
-:blue_heart: ***Mathematical Statistics***
-:blue_heart: ***Mathematical Analysis*** :blue_heart:
+:blue_heart: <strong><em>Linear Algebra</em></strong>
+:blue_heart: <strong><em>Calculus</em></strong>
+:blue_heart: <strong><em>Mathematical Statistics</em></strong>
+:blue_heart: <strong><em>Mathematical Analysis</em></strong> :blue_heart:
 </h3>
 
 <!---
