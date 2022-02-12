@@ -6,10 +6,12 @@
 
 해상도를 높여간다고 생각하며 공부!
 
+<h3 align="center">
 :blue_heart: ***Linear Algebra***
 :blue_heart: ***Calculus***
 :blue_heart: ***Mathematical Statistics***
 :blue_heart: ***Mathematical Analysis*** :blue_heart:
+</h3>
 
 <!---
 superbunny38/superbunny38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
