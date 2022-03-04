@@ -2,7 +2,7 @@
 - 👀 I’m a senior in SKKU majoring in Computer Education and Data Science
 - 🌱 I’m currently learning ... DeepLearning, Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... superbunny38@gmail.com
+- 📫 How to reach me ... superbunny38 at gmail dot com
 
 해상도를 높여간다고 생각하며 공부!
 
