@@ -13,7 +13,8 @@
 :blue_heart: <strong><em>Mathematical Analysis</em></strong> :blue_heart:
 </h3>
 
-> MML status: 6-1
+> MML status: 6-1-2
+> Algo status:
 
 <!---
 superbunny38/superbunny38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
