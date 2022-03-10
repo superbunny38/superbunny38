@@ -15,7 +15,7 @@
 
 > MML status (1/7): 6-1-2
 
-> Algo status:
+> Algo status (1/5):
 
 <!---
 superbunny38/superbunny38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
