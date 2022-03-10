@@ -13,7 +13,7 @@
 :blue_heart: <strong><em>Mathematical Analysis</em></strong> :blue_heart:
 </h3>
 
-> MML status: 6-1-2
+> MML status (1/7): 6-1-2
 
 > Algo status:
 
