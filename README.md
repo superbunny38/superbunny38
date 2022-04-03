@@ -5,7 +5,6 @@
 - 📫 How to reach me ... superbunny38 at gmail dot com
 
 해상도를 높여간다고 생각하며 공부!
-진심은 통하게 되어 있으니까.
 
 <h3 align="center">
 :blue_heart: <strong><em>Linear Algebra</em></strong>
