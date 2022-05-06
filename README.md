@@ -13,8 +13,6 @@
 :blue_heart: <strong><em>Mathematical Analysis</em></strong> :blue_heart:
 </h3>
 
-![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=superbunny38&show_icons=true)
-
 > MML status (1/7): 6-1-2-3
 
 > CS2019 (1/2): 1-2-3
