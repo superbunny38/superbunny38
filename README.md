@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/48243487/147347475-8fa77723-5df2-4488-ba01-863b1ea9ae06.png)
 - 👀 I’m a senior in SKKU majoring in Computer Education and Data Science
 - 🌱 I’m currently learning ... DeepLearning, Machine Learning
-- 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI (e-mail me, anytime!)***
+- 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI or Data Science (e-mail me, anytime!)***
 - 📫 How to reach me ... superbunny38 at gmail dot com
 
 해상도를 높여간다고 생각하며 공부!
