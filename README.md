@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI or Data Science (e-mail me, anytime!)***
 - 📫 How to reach me ... superbunny38 at gmail dot com
 
-2022
+2022<br>
+Currenlty... finishing semester, TA for Computer Vision(SKKU, Prof. Gaya Nadarajan)
+<br>
 해상도를 높여간다고 생각하며 공부!
 
 <h3 align="center">
