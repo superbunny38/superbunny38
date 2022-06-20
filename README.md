@@ -9,6 +9,8 @@
 <br>
 해상도를 높여간다고 생각하며 공부!
 
+- 2022 AI Online 경진대회 참여중
+
 <h3 align="center">
 :blue_heart: <strong><em>Linear Algebra</em></strong>
 :blue_heart: <strong><em>Calculus</em></strong>
