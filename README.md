@@ -8,6 +8,9 @@
 
 <br>
 해상도를 높여간다고 생각하며 공부!
+<br>
+어쨌든 내 탓이다.
+
 
 <h2 align="center"> <strong>CVML</strong> </h2>
 <h3 align="center">
