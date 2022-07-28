@@ -9,7 +9,7 @@
 <br>
 해상도를 높여간다고 생각하며 공부!
 <br>
-어쨌든 내 탓이다.
+For everything that happens to me, I am to blame.
 
 
 <h2 align="center"> <strong>CVML</strong> </h2>
