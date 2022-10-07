@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI or Data Science (e-mail me, anytime!)***
 - 📫 How to reach me ... superbunny38 at gmail dot com
 
-
+💞️몽이야 사랑해💞️
 
 <br>
 해상도를 높여간다고 생각하며 공부!
