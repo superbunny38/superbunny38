@@ -22,7 +22,7 @@ For everything that happens to me, mea culpa.
 
 > MML status (1/7): 6-1-2-3
 
-> CS2019 (1/2): 1-2-3
+> CS2019 (1/1): 1-2-3
  
 > Algo status (1/5):
 
