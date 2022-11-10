@@ -9,7 +9,7 @@
 <br>
 해상도를 높여간다고 생각하며 공부!
 <br>
-For everything that happens to me, mea culpa.
+이겨내야 자격이 있는거 아닐까.
 
 
 <h2 align="center"> <strong>CVML</strong> </h2>
