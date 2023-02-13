@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 ![](https://komarev.com/ghpvc/?username=superbunny38&style=for-the-badge&&color=ff69b4)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFCAF5&title_bg=%23000000&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
