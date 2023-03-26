@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... DeepLearning, Machine Learning
 - 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI or Data Science (e-mail me, anytime!)***
 - 📫 How to reach me ... superbunny38 at gmail dot com
-- :nerd_face: You can check out all the papers implemented/reviewed by myself in DeepLearning/papers
+- :nerd_face: You can check out all the papers that I implemented/reviewed in DeepLearning/papers
 
 💞️몽이야 사랑해💞️
 
