@@ -12,7 +12,8 @@
 해상도를 높여간다고 생각하며 공부!
 <br>
 이겨내야 자격이 있는거 아닐까.
-
+<br>
+도자기를 빚는 장인의 정신으로 전문성을 닦자.
 
 <h2 align="center"> <strong>CVML</strong> </h2>
 <h3 align="center">
