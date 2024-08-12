@@ -3,7 +3,7 @@
 - 👀 I gradudated from Sungkyunkwan University, and I am an incoming student of Columbia University MSCS
 - 🌱 I’m currently learning ... DeepLearning, Machine Learning
 - 💞️ I’m looking to collaborate on ... ***Kaggle, Dacon and all sorts of competitions regarding AI or Data Science (e-mail me, anytime!)***
-- 📫 How to reach me ... superbunny38 at gmail dot com
+- 📫 How to reach me ... cr3413 *at* columbia *dot* edu
 - :nerd_face: You can check out all the papers that I implemented/reviewed in Papers
 
 💞️몽이야 사랑해💞️
