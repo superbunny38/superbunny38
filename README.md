@@ -54,5 +54,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](./profile-summary-card-output/pie/2-most-commit-language.svg)
+![](./profile-summary-card-output/default/2-most-commit-language.svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superbunny38)](https://solved.ac/superbunny38/)
