@@ -52,6 +52,5 @@ You can click the Preview link to take a look at your changes.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuperbunny38&count_bg=%23FFCAF5&title_bg=%23000000&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbunny38&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-summary-card-output/pie/2-most-commit-language.svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superbunny38)](https://solved.ac/superbunny38/)
